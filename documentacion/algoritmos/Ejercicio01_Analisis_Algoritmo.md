@@ -111,3 +111,7 @@ Algoritmo PromedioCalificaciones
     Escribir "Reprobados: ", reprobados
 
 FinAlgoritmo
+
+╔══════════════════════════════════════════════╗
+║                 NECESIDAD                    ║
+╚══════════════════════════════════════════════╝
