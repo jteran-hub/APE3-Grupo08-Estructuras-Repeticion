@@ -112,6 +112,3 @@ Algoritmo PromedioCalificaciones
 
 FinAlgoritmo
 
-╔══════════════════════════════════════════════╗
-║                 NECESIDAD                    ║
-╚══════════════════════════════════════════════╝
